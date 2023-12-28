@@ -5,6 +5,8 @@
 - 🔭 I’m currently studying at Universidade Federal de Minas Gerais (UFMG) and working as a research student
 - 🌱 I’m currently interested in competitive programming, data mining and machine learning
 - 😄 Pronouns: He/Him
+- 💼 Worked at [iJunior](https://ijunior.com.br/) as a back-end developer.
+
 
 
 ## Languages
