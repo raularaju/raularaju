@@ -20,4 +20,5 @@
 
 ## Connect with me
 
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-profile"  /></a>
+<a href="https://www.linkedin.com/in/raul-araju-a89556212/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-profile"  /></a>
+
