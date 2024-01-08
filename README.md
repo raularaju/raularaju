@@ -11,11 +11,11 @@
 
 ## Languages
 
-![](https://skillicons.dev/icons?i=python,c,cpp,js,bash,julia)
+![](https://skillicons.dev/icons?i=python,c,cpp,js,java,julia,bash)
 
 ## Tools
 
-![](https://skillicons.dev/icons?i=linux,docker,git,github,nodejs,mysql,postman,latex,md,html)
+![](https://skillicons.dev/icons?i=linux,docker,git,github,nodejs,mysql,spring,postman,latex,md,html)
 
 
 ## Connect with me
