@@ -5,17 +5,16 @@
 - 🔭 I’m currently studying at Universidade Federal de Minas Gerais (UFMG) and working as a research student
 - 🌱 I’m currently interested in competitive programming, data mining and machine learning
 - 😄 Pronouns: He/Him
-- 💼 Worked at [iJunior](https://ijunior.com.br/) as a back-end developer.
-
+- 💼 Worked at [iJunior](https://ijunior.com.br/) as a back-end developer. Currently working at [dtidigital](https://www.dtidigital.com.br/)
 
 
 ## Languages
 
-![](https://skillicons.dev/icons?i=python,c,cpp,js,java,julia,bash)
+![](https://skillicons.dev/icons?i=python,c,cpp,js,java,julia,bash,typescript)
 
 ## Tools
 
-![](https://skillicons.dev/icons?i=linux,docker,git,github,nodejs,mysql,spring,postman,latex,md,html)
+![](https://skillicons.dev/icons?i=linux,docker,git,github,nodejs,mysql,spring,postman,latex,md,html,spring,angular,npm,mysql,postgres)
 
 
 ## Connect with me
